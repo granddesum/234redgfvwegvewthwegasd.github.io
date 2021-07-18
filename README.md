@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>MrLich</title>
+	<title>desum</title>
 	<link href="main.css" rel="stylesheet">
 	<meta property="og:title" content="MrLich">
 	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
