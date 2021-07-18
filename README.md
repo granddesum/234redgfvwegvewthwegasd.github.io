@@ -2,7 +2,7 @@
 <head>
 	<title>desum</title>
 	<link href="main.css" rel="stylesheet">
-	<meta property="og:title" content="MrLich">
+	<meta property="og:title" content="desum">
 	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 
   <script type="text/javascript" language="JavaScript">
@@ -45,7 +45,7 @@
 		<div class="lightbox">
 			<div class="wrapper">
 				<div class="titles animate">
-				<h1>MrLich</h1>
+				<h1>desum</h1>
 					<div class="media animate">
 						<a href="https://vk.com/l_l_l_mister_lich_l_l_l" target="_blank">
 							<i class="fab fa-vk fa-lg"></i>
